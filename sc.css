@@ -1,0 +1,20 @@
+.lagu{
+  background:transparent;
+  border:1px solid red;
+  font-family:Share\ Tech\ Mono;
+  font-size:10px;
+  font-weight:normal;
+  padding:2px 25px;
+  text-decoration:none;
+  text-shadow:0 0 0px #15cff4;
+}
+h1 { 
+  text-align: center;
+  color: #3335cf;
+  font-size: 35px;
+  font-family: Arial Narrow, sans-serif;
+  font-style: garamond;
+  text-shadow: 100vmax #f00505;
+  text-shadow: 0px 0px 0px #f00505;
+}
+HTML,BODY{cursor: none;}
